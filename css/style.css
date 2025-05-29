@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.head {
+  font-size: 80px;
+  margin: 54px 0px;
+  font-family: Impact;
+  font-weight: 800;
+}
+p {
+  font-size: 35px;
+}
+.head2 {
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 35px;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+}
+
+button:hover {
+  background-color: green;
+}
